@@ -11,7 +11,7 @@ import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
 
 
-public class DemowebshopTests extends TestBase {
+public class DemowebshopAuthTests extends TestBase {
 
     static String login = "qaguru@qa.guru",
             password = "qaguru@qa.guru1",
