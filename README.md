@@ -33,7 +33,7 @@
 <img title="Jenkins Job Run" src="images/screenshots/jenkins-run.png">
 </p>
 <p align="center">
-<img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard-all.png">
+<img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
 </p>
 
 ## :keyboard: Запуск из терминала
