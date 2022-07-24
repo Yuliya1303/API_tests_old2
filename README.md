@@ -28,7 +28,7 @@
 
 
 ## :robot: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-RestApiDemoShop18">Cборка в Jenkins/a>
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-RestApiDemoShop18">Cборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Job Run with parameters" src="images/screenshots/jenkins-run.png">
 </p>
