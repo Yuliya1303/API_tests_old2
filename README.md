@@ -19,8 +19,7 @@
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="6%" title="Lombok" src="images/logo/Lombok.svg">
-<img width="6%" title="Rest Assured" src="images/logo/Rest_assured.svg">
+<img width="6%" title="Rest Assured" src="images/logo/Rest_assured.png">
 </p>
 
 ## :clipboard: Реализованные проверки
