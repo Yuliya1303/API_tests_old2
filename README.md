@@ -1,5 +1,5 @@
-# Автоматизации тестирования API на тестовом сайте https://reqres.in/api
-## :link: <a target="_blank" href="https://reqres.in/api">https://reqres.in/api - ресурс для тестирования API</a>
+# Автоматизации тестирования API Demowebshop
+## :link: <a target="_blank" href="http://demowebshop.tricentis.com/">http://demowebshop.tricentis.com/ - тестовый веб ресурс</a>
 
 ## :page_with_curl: Содержание:
 
@@ -23,9 +23,9 @@
 </p>
 
 ## :clipboard: Реализованные проверки
-- Проверка создания юзера :heavy_check_mark:
+- Проверка авторизации юзера :heavy_check_mark:
 - Проверка обновления данных юзера :heavy_check_mark:
-
+- Проверка добавления товара в корзину :heavy_check_mark:
 
 ## :robot: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-RestApiDemoShop18/">Cборка в Jenkins</a>
