@@ -44,7 +44,8 @@ gradle clean test
 Удаленный запуск всех тестов:
 ```
 clean test
-
+```
+  
 ## :bar_chart: Allure отчет
 - ### Главный экран отчета
 <p align="center">
