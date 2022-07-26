@@ -1,5 +1,5 @@
-# Автоматизации тестирования API Demowebshop
-## :link: <a target="_blank" href="http://demowebshop.tricentis.com/">http://demowebshop.tricentis.com/ - тестовый веб ресурс</a>
+# Автоматизации тестирования API https://reqres.in/
+## :link: <a target="_blank" href="https://reqres.in/">https://reqres.in/ - тестовый веб ресурс</a>
 
 ## :page_with_curl: Содержание:
 
@@ -28,7 +28,7 @@
 - Проверка добавления товара в корзину :heavy_check_mark:
 
 ## :robot: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-RestApiDemoShop18/">Cборка в Jenkins</a>
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-API_tests/">Cборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Dashboard" src="images/screenshots/jenkins-dashboard.png">
 </p>
