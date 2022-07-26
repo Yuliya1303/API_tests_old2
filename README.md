@@ -23,9 +23,8 @@
 </p>
 
 ## :clipboard: Реализованные проверки
-- Проверка авторизации юзера :heavy_check_mark:
+- Проверка созда юзерания :heavy_check_mark:
 - Проверка обновления данных юзера :heavy_check_mark:
-- Проверка добавления товара в корзину :heavy_check_mark:
 
 ## :robot: Сборка в Jenkins
 ### <a target="_blank" href="https://jenkins.autotests.cloud/job/C12-Yuliya_B-API_tests/">Cборка в Jenkins</a>
